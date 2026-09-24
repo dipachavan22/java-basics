@@ -3,7 +3,6 @@
  //1^3+5^3+3^3 that sum is == to number
  //1^3+5^3+3^3=153
  
- import java.io.*;
  import java.util.*;
  class ArmstrongNO
  {

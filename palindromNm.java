@@ -7,8 +7,8 @@ class palindromNm
 	{
 	 
 	 Scanner s=new Scanner(System.in);
-		 System.out.println("Enter Number");
-		 int a=s.nextInt();
+		System.out.println("Enter any no.");
+		int a=s.nextInt();
 	 //int a=121;
 	 int origi=a;
 	 int rev=0;
