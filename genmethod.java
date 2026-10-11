@@ -1,6 +1,6 @@
 import java.io.*;
 import java.util.*;
-class genmethod
+class parameterzgenmethod
 {
 	public static <T> void display(T value)
 	{
