@@ -11,7 +11,7 @@ class GenPrintArray
 	}
 	public static void main(String args[])
 	{
-		String nm ={"first","Second","Third"};
+		String[] nm ={"first","Second","Third"};
 		printArr(nm);
 	}
 }
