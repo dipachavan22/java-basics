@@ -17,7 +17,7 @@ class Genmax
 	public static void main (String args[])
 	
 	{
-		System.out.println(max(10,60));
-		System.out.println(max("hoye","oye"));
+		System.out.println(max(10,20));
+		System.out.println(max("Apple","Banana"));
 	}
 }
