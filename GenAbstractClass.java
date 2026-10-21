@@ -3,13 +3,12 @@ import java.util.*;
 
 abstract class dataprocessor<T>
 {
-		abstract void process(T val)
-		{
-			void display(T val)
-			{
-				System.out.println(val);
-			}
-		}
+    abstract void process(T val);
+
+    void display(T val)
+    {
+        System.out.println(val);
+    }
 }
 
 
@@ -29,7 +28,7 @@ class GenAbstractClass
 public static void main(String args[])
 {
 	StringProcessor s1=new StringProcessor();
-	s1.process("Java");
-	s1.display("Hey");
+	s1.process("java");
+	s1.display("hey");
 }
 }
